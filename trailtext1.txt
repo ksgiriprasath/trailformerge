@@ -1,1 +1,2 @@
 trail1 firstline entered
+trail1 second line entered
