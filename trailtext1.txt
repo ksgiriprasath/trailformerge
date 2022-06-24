@@ -1,5 +1,0 @@
-trail1 firstline entered
-trail1 second line entered
-trail1 fourth line is entered from git bash
-trail1 third line entered from git hub
-
