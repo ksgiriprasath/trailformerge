@@ -1,1 +1,2 @@
 First Line Added
+second line added from git bash
